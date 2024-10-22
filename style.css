@@ -1,0 +1,9 @@
+.app {
+    display: flex;
+    flex-direction: row;
+    font-family: "Source Code Pro", "Lucida Console";
+}
+
+.hostlist {
+    min-width: 200px;
+}
